@@ -1,0 +1,42 @@
+---
+title: ''
+---
+<div style="margin-bottom:50px;">
+</div>
+
+<div style="margin-bottom:50px;">
+</div>
+
+
+
+
+#### 1. [Exploratory data analysis](Exploratory_data_analysis.html)
+
+#### 2. [Local GW-OLS](Local_GW_OLS.html)
+
+#### 3. [Local GW-RF ](Local_GW_RF.html)
+
+
+
+
+
+
+<div style="margin-bottom:50px;">
+</div>
+
+## **Zia Ahmed, PhD**
+
+Research Associate Professor (Data & Visualization)
+
+[RENEW (Research and Education in eNergy, Environment and Water) Institute](http://www.buffalo.edu/renew.html)
+
+[University at Buffalo](http://www.buffalo.edu/) 
+
+<div style="margin-bottom:50px;">
+</div>
+
+```{r echo=FALSE, out.width='40%', fig.align="left"}
+knitr::include_graphics('E:\\GitHub\\geospatial-r-github\\Image\\RENEW.png')
+```
+
+

@@ -1,0 +1,24 @@
+name: Untangling Spatial Heterogeneity of Type 2 diabetes mellitus (DM 2) Prevalence in the USA  
+output_dir: '.'
+navbar:
+  title: Untangling Spatial Heterogeneity of Type 2 diabetes mellitus (DM 2)  
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  right:
+  - text: Email
+    icon: fa-envelope fa-lg
+    href: mailto:zia207@gmail.com
+  - icon: fa-github fa-lg
+    href: http://github.com/zia207
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/zia-ahmed-a7653578
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
